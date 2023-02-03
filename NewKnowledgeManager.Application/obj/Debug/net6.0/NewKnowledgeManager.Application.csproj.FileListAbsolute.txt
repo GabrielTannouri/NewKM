@@ -1,0 +1,15 @@
+C:\Dev\NewKnowledgeManager\NewKnowledgeManager.Application\bin\Debug\net6.0\NewKnowledgeManager.Application.deps.json
+C:\Dev\NewKnowledgeManager\NewKnowledgeManager.Application\bin\Debug\net6.0\NewKnowledgeManager.Application.dll
+C:\Dev\NewKnowledgeManager\NewKnowledgeManager.Application\bin\Debug\net6.0\NewKnowledgeManager.Application.pdb
+C:\Dev\NewKnowledgeManager\NewKnowledgeManager.Application\bin\Debug\net6.0\NewKnowledgeManager.Domain.dll
+C:\Dev\NewKnowledgeManager\NewKnowledgeManager.Application\bin\Debug\net6.0\NewKnowledgeManager.Domain.pdb
+C:\Dev\NewKnowledgeManager\NewKnowledgeManager.Application\obj\Debug\net6.0\NewKnowledgeManager.Application.csproj.AssemblyReference.cache
+C:\Dev\NewKnowledgeManager\NewKnowledgeManager.Application\obj\Debug\net6.0\NewKnowledgeManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\NewKnowledgeManager\NewKnowledgeManager.Application\obj\Debug\net6.0\NewKnowledgeManager.Application.AssemblyInfoInputs.cache
+C:\Dev\NewKnowledgeManager\NewKnowledgeManager.Application\obj\Debug\net6.0\NewKnowledgeManager.Application.AssemblyInfo.cs
+C:\Dev\NewKnowledgeManager\NewKnowledgeManager.Application\obj\Debug\net6.0\NewKnowledgeManager.Application.csproj.CoreCompileInputs.cache
+C:\Dev\NewKnowledgeManager\NewKnowledgeManager.Application\obj\Debug\net6.0\NewKnowledgeManager.Application.csproj.CopyComplete
+C:\Dev\NewKnowledgeManager\NewKnowledgeManager.Application\obj\Debug\net6.0\NewKnowledgeManager.Application.dll
+C:\Dev\NewKnowledgeManager\NewKnowledgeManager.Application\obj\Debug\net6.0\refint\NewKnowledgeManager.Application.dll
+C:\Dev\NewKnowledgeManager\NewKnowledgeManager.Application\obj\Debug\net6.0\NewKnowledgeManager.Application.pdb
+C:\Dev\NewKnowledgeManager\NewKnowledgeManager.Application\obj\Debug\net6.0\ref\NewKnowledgeManager.Application.dll

@@ -1,0 +1,17 @@
+C:\Dev\NewKnowledgeManager\NewKnowledgeManager.Repository\bin\Debug\net6.0\NewKnowledgeManager.Repository.deps.json
+C:\Dev\NewKnowledgeManager\NewKnowledgeManager.Repository\bin\Debug\net6.0\NewKnowledgeManager.Repository.runtimeconfig.json
+C:\Dev\NewKnowledgeManager\NewKnowledgeManager.Repository\bin\Debug\net6.0\NewKnowledgeManager.Repository.dll
+C:\Dev\NewKnowledgeManager\NewKnowledgeManager.Repository\bin\Debug\net6.0\NewKnowledgeManager.Repository.pdb
+C:\Dev\NewKnowledgeManager\NewKnowledgeManager.Repository\bin\Debug\net6.0\NewKnowledgeManager.Domain.dll
+C:\Dev\NewKnowledgeManager\NewKnowledgeManager.Repository\bin\Debug\net6.0\NewKnowledgeManager.Domain.pdb
+C:\Dev\NewKnowledgeManager\NewKnowledgeManager.Repository\obj\Debug\net6.0\NewKnowledgeManager.Repository.csproj.AssemblyReference.cache
+C:\Dev\NewKnowledgeManager\NewKnowledgeManager.Repository\obj\Debug\net6.0\NewKnowledgeManager.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\NewKnowledgeManager\NewKnowledgeManager.Repository\obj\Debug\net6.0\NewKnowledgeManager.Repository.AssemblyInfoInputs.cache
+C:\Dev\NewKnowledgeManager\NewKnowledgeManager.Repository\obj\Debug\net6.0\NewKnowledgeManager.Repository.AssemblyInfo.cs
+C:\Dev\NewKnowledgeManager\NewKnowledgeManager.Repository\obj\Debug\net6.0\NewKnowledgeManager.Repository.csproj.CoreCompileInputs.cache
+C:\Dev\NewKnowledgeManager\NewKnowledgeManager.Repository\obj\Debug\net6.0\NewKnowledgeManager.Repository.csproj.CopyComplete
+C:\Dev\NewKnowledgeManager\NewKnowledgeManager.Repository\obj\Debug\net6.0\NewKnowledgeManager.Repository.dll
+C:\Dev\NewKnowledgeManager\NewKnowledgeManager.Repository\obj\Debug\net6.0\refint\NewKnowledgeManager.Repository.dll
+C:\Dev\NewKnowledgeManager\NewKnowledgeManager.Repository\obj\Debug\net6.0\NewKnowledgeManager.Repository.pdb
+C:\Dev\NewKnowledgeManager\NewKnowledgeManager.Repository\obj\Debug\net6.0\NewKnowledgeManager.Repository.genruntimeconfig.cache
+C:\Dev\NewKnowledgeManager\NewKnowledgeManager.Repository\obj\Debug\net6.0\ref\NewKnowledgeManager.Repository.dll
